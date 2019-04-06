@@ -1,0 +1,21 @@
+#Below you find linux terminal commands and utils that i know by 6th April of 2019
+
+ping
+traceroute
+telnet
+df -h
+ifconfig -a
+ifup
+ifdown
+netstat -tln
+netstat -r
+top
+htop
+iostat
+du -h
+
+tcpdump
+iperf
+iptables
+nmap
+
