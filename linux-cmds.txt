@@ -14,9 +14,4 @@ htop
 iostat
 du -h
 
-tcpdump
-iperf
-iptables
-nmap
-
-########### This line is added from github.com web interface!############
+#Deleted utils lines# This is done to learn git branching!
