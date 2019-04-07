@@ -1,5 +1,10 @@
 #Below you find linux terminal commands and utils that i know by 6th April of 2019
 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+####################################
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
 ping
 traceroute
 telnet
