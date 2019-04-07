@@ -19,4 +19,10 @@ htop
 iostat
 du -h
 
-#Deleted utils lines# This is done to learn git branching!
+#utils
+
+tcpdump
+nmap
+iptables
+
+#111111111111111111111111111111111111111
